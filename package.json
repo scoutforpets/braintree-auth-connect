@@ -1,6 +1,6 @@
 {
   "name": "braintree-auth-connect",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Braintree Auth Client-side Library",
   "main": "index.js",
   "scripts": {
